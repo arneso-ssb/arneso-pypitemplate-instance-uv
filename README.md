@@ -23,10 +23,11 @@
 [pre-commit]: https://github.com/pre-commit/pre-commit
 [black]: https://github.com/psf/black
 [poetry]: https://python-poetry.org/
+[ssb-pypitemplate]: https://github.com/statisticsnorway/ssb-pypitemplate
 
 ## Features
 
-- TODO
+- This is just a test instance of the [ssb-pypitemplate] with uv.
 
 ## Requirements
 
